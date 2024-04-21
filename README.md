@@ -1,3 +1,3 @@
-if you chack this site then set this email and password
+if you check this site then set this email and password
 email:shahrukh@bap.com
-password:sadi
+password: sadi
